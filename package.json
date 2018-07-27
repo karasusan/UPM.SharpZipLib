@@ -1,0 +1,8 @@
+{
+    "name": "jp.kazuki.sharpziplib",
+    "displayName": "SharpZipLib",
+    "version": "1.0.0",
+    "unity": "2018.2",
+    "description": "Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform. http://icsharpcode.github.io/SharpZipLib/",
+    "dependencies": { }
+}
